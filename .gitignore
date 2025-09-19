@@ -131,3 +131,6 @@ dmypy.json
 # Django specific
 staticfiles/
 media/
+
+#Technical Documentation
+TECHNICAL_DOCUMENTATION.md
